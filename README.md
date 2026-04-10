@@ -1,6 +1,7 @@
-#  👨🏻‍💻 Gabriel Z. Miranda
+#  JOAQUIM TEIXEIRA DE ALMEIDA
 
 **`Estudante de DSM Fatec Indaiatuba`**
+
 
 <p align="center">
 
