@@ -1,6 +1,6 @@
 #  JOAQUIM TEIXEIRA DE ALMEIDA
 
-**`Estudante de DSM Fatec Indaiatuba`**
+**`Apesar do medo, termine o trabalho.`**
 
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -49,7 +49,7 @@
 <br/>
 
 ---
-### 💻 Ferramentas e IDEs 
+### Ferramentas e IDEs 
 <div style="flex-basis: 48%;"> 
   <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="30" alt="VSCode" />
